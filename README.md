@@ -13,7 +13,7 @@
  
 - ✨ Selecionada para a trilha **Full stack** no **Programa Desenvolve - Grupo O Boticário**
 - 📚 Atualmente aprendendo **React, Node e PHP.**
-- 💻 Conhecimentos sólidos em HTML, CSS, Framework Bootstrap e Wordpress.
+- 💻 Conhecimento em HTML, CSS, Framework Bootstrap, jQuery e Wordpress.
 - 🔮 Extremamente apaixonada por códigos e me aventurando de vez em quando no design. 
  
  ##  
