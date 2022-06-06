@@ -17,7 +17,8 @@
 - 🔮 Extremamente apaixonada por códigos e me aventurando de vez em quando no design. 
  
  
- ![Fla GitHub stats](https://github-readme-stats.vercel.app/api?username=flavialbraz&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavialbraz&layout=compact&theme=cobalt)](https://github.com/flavialbraz/)
+
 
  
  ##  
