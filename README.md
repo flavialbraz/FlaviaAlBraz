@@ -9,7 +9,7 @@
  <a href="https://www.behance.net/flavialbraz" alt="flavialbraz">
   <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"  height="20" /></a>
   
-  <a href="malito:flaviabrazx@gmail.com" alt="flavialbraz">
+  <a href="mailto:flaviabrazx@gmail.com" alt="flavialbraz">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="20" /></a>
 </p>  
  
