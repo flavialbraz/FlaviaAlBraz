@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/flavialbraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavialbraz&show_icons=true&hide_rank=true&theme=dracula&include_all_commits=true&count_private=true&card_width=400px"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavialbraz&layout=compact&langs_count=7&theme=dracula&hide_rank=true&card_width=400px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavialbraz&show_icons=true&hide_rank=true&theme=dracula&include_all_commits=true&count_private=true&card_width=400px"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavialbraz&layout=compact&langs_count=7&theme=dracula&hide_rank=true&card_width=200px"/>
     </div> 
 
  
