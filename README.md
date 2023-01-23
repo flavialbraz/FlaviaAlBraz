@@ -1,11 +1,11 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF729C&vCenter=true&width=555&height=90&lines=Eii!+Bem-vindo!+Sou+a+Fl%C3%A1via+%3A)" alt="Typing SVG" /></a></div> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=cfacff&vCenter=true&width=555&height=90&lines=Eii!+Bem-vindo!+Sou+a+Fl%C3%A1via+%3A)" alt="Typing SVG" /></a></div> 
 
-<img align="right" src="https://user-images.githubusercontent.com/78583429/213956156-b4872ecb-8719-4a9c-8d41-155a731e4e6d.png" width="25%" />
+<img align="right" src="https://images2.imgbox.com/e9/a2/zyIDXvfe_o.png" width="25%" />
 
- 
- 
+  
+
  
  
 - ✨ Aluna do programa **Full stack** no **Programa Desenvolve - Grupo O Boticário**
