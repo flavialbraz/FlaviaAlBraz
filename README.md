@@ -8,9 +8,9 @@
 
  
  
-- ✨ Aluna do programa **Full stack** no **Programa Desenvolve - Grupo O Boticário**
-- 📚 Atualmente estudando **React.**
-- 💻 Conhecimento em HTML, CSS, Bootstrap, Javascript, React, Node e Wordpress.
+- ✨ Front End focada em React JS & UI Design
+- 📚 Atualmente estudando **React** e **Java**
+- 💻 Conhecimentos avaçado em: HTML CSS, Bootstrap e Wordpress.
 - 🔮 Extremamente apaixonada por códigos e me aventurando de vez em quando no design.
   <p align="left">  <a href="https://www.linkedin.com/in/flavialbraz/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ height="20"></a>
